@@ -27,8 +27,8 @@
 		}
 	</script>
 
-	<input type="text" autofocus id="message" placeholder="your message!">
-	<button onclick="send()">Send</button><br><br>
+	<input type="text" autofocus id="message" placeholder="Escribe aqui!">
+	<button onclick="send()">Enviar</button><br><br>
 	<div id="history"></div>
 </body>
 </html>
